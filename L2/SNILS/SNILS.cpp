@@ -6,7 +6,7 @@ int main()
     system("chcp 1251");
     string S;
     int valid;
-    cout << "Ââåäèòå 11 çíà÷íûé íîìåð ÑÍÈËÑ äëÿ ïðîâåðêè: ";
+    cout << "Ð’Ð²ÐµÐ´Ð¸Ñ‚Ðµ 11 Ð·Ð½Ð°Ñ‡Ð½Ñ‹Ð¹ Ð½Ð¾Ð¼ÐµÑ€ Ð¡ÐÐ˜Ð›Ð¡ Ð´Ð»Ñ Ð¿Ñ€Ð¾Ð²ÐµÑ€ÐºÐ¸: ";
     cin >> S;
     
     int sum = stoi(S.substr(0, 1)) * 9 + stoi(S.substr(1, 1)) * 8 + stoi(S.substr(2, 1)) * 7 + stoi(S.substr(3, 1)) * 6 + stoi(S.substr(4, 1)) * 5 + stoi(S.substr(5, 1)) * 4 +
