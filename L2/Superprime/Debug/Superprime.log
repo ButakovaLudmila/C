@@ -1,0 +1,6 @@
+﻿  SNILS.cpp
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L2\L2\SNILS\SNILS.cpp(11,13): warning C4834: discarding return value of function with 'nodiscard' attribute
+  Superprime.cpp
+  Generating Code...
+Superprime.obj : error LNK2005: _main already defined in SNILS.obj
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L2\L2\Debug\Superprime.exe : fatal error LNK1169: one or more multiply defined symbols found
