@@ -1,0 +1,3 @@
+﻿  Tringle.cpp
+C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L3\Tringle\Tringle.cpp(21,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Tringle.vcxproj -> C:\Users\butakovalv\Documents\GitHub\ITMO\C++\L3\x64\Debug\Tringle.exe
