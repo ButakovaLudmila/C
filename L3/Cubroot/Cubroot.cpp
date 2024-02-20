@@ -27,12 +27,12 @@ void main()
     system("chcp 1251");
  
     double first, x, second;
-    cout << "\nÂâåäèòå çíà÷åíèå x : " << endl; 
+    cout << "\nÐ’Ð²ÐµÐ´Ð¸Ñ‚Ðµ Ð·Ð½Ð°Ñ‡ÐµÐ½Ð¸Ðµ x : " << endl; 
     cin >> x;
     first = pow(x);
     second = iteration(x);
     
-    cout << "\nÊîðåíü ÷åðåç POW = " << first << endl;
-    cout << "\nÊîðåíü ÷åðåç èòåðàöèîííóþ ôîðìóëó = " << second << endl;
+    cout << "\nÐšÐ¾Ñ€ÐµÐ½ÑŒ Ñ‡ÐµÑ€ÐµÐ· POW = " << first << endl;
+    cout << "\nÐšÐ¾Ñ€ÐµÐ½ÑŒ Ñ‡ÐµÑ€ÐµÐ· Ð¸Ñ‚ÐµÑ€Ð°Ñ†Ð¸Ð¾Ð½Ð½ÑƒÑŽ Ñ„Ð¾Ñ€Ð¼ÑƒÐ»Ñƒ = " << second << endl;
 
 }
